@@ -49,3 +49,31 @@ python caesium.py
 
 ![Окно выбора эх](http://ii-net.tk/ii/files/t7GeiEBgGQuidT1l9TZ5.png)
 ![Просмотр сообщений](http://ii-net.tk/ii/files/799HWLjT0v6E7bwkPbHe.png)
+
+#### Другие клиенты
+
+Любители экзотики могут не отчаиваться: можно завести другие клиенты с помощью Termux.
+
+##### iitxt
+
+Устанавливается похожим способом, как и Цезий. [README](https://github.com/spline1986/iitxt/blob/master/README)
+
+```
+apt update
+apt upgrade
+apt install python nano git
+git clone https://github.com/spline1986/iitxt
+
+# дальше смотрим в README и читаем, как пользоваться
+```
+
+##### Текстовый клиент на Си
+
+* *Любая версия ОС*
+
+Для этого клиента даже не понадобится Termux: подойдёт любой эмулятор терминала. Не позабудьте выставить в терминале нужный `LD_PRELOAD_PATH` для библиотек.
+
+Есть готовая сборка, но также можно собрать его самому через кросс-компилятор (Android NDK) или с помощью GCC из Termux.
+
+* Архив с готовой сборкой: <http://ii-net.tk/files/iitxt-c.tar.gz>
+* [Репозиторий](https://github.com/vit1-irk/iitxt-c) с кодом и инструкцией по использованию
