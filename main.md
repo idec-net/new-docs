@@ -34,28 +34,31 @@
 Полный список [здесь](http://ii-net.tk/station.html).
 
 #### Через клиенты:
-1. <Название Qt-клиента> - графический клиент для GNU/Linux и Windows/ReactOS. Написан на Python3 и Qt5.
+<Название Qt-клиента> - графический клиент для GNU/Linux и Windows/ReactOS. Написан на Python3 и Qt5.
+
+[Скриншоты](qt-client-screens.md)
+
 Ссылки:
-	* [Репозиторий на Github](https://github.com/vit1-irk/iicli-modular)
-	* [Пакет для Debian](http://ii-net.tk/files/iicli-modular.deb)
-	* [AUR (ArchLinux)](https://aur.archlinux.org/packages/iicli-modular)
-	* [Установщик для Windows](http://ii-net.tk/files/iiclient.exe)
-	* [Portable-версия, Windows](http://ii-net.tk/files/ii-portable.zip)
-<!--// Добавить скриншоты -->
+* [Репозиторий на Github](https://github.com/vit1-irk/iicli-modular)
+* [Пакет для Debian](http://ii-net.tk/files/iicli-modular.deb)
+* [AUR (ArchLinux)](https://aur.archlinux.org/packages/iicli-modular)
+* [Установщик для Windows](http://ii-net.tk/files/iiclient.exe)
+* [Portable-версия, Windows](http://ii-net.tk/files/ii-portable.zip)
 
-2. Цезий - консольный клиент для GNU/Linux (работает в Windows через Cygwin)
-Написан на Python3 и ncurses.
+**Цезий** - консольный клиент для GNU/Linux (работает в Windows через Cygwin). Написан на Python3 и ncurses.
+
+[Скриншоты](caesium-screens.md)
+
 Ссылки:
-	* [Репозиторий на Github](https://github.com/spline1986/caesium)
-<!-- // Добавить скриншоты -->
+* [Репозиторий на Github](https://github.com/spline1986/caesium)
 
-3. iitxt - текстовый клиент для разных ОС (удобен для работы в скриптах или из консоли)
-	* [Python3-версия](https://github.com/spline1986/iitxt)
-	* [Реализация на С](https://github.com/vit1-irk/iitxt-c)
+iitxt - текстовый клиент для разных ОС (удобен для работы в скриптах или из консоли)
+* [Python3-версия](https://github.com/spline1986/iitxt)
+* [Реализация на С](https://github.com/vit1-irk/iitxt-c)
 
-4. [Инструкция по использованию клиентов на Android](android.md)
+[Инструкция по использованию клиентов на Android](android.md)
 
-5. Старые клиенты <!--// Ссылка на отдельную страницу-->
+[Старые и все остальные клиенты](http://ii-net.tk/iidownload)
 
 #### RSS
 `Для просмотра нужной эхи ставите ii2rss.php?echo=эха`
