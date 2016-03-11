@@ -32,7 +32,6 @@
 * [station13](http://spline.rooker.ru/ii/)
 * [Difrex](http://ii.difrex.ru/)
 * Anonymousa (филиал в Tor): <http://mtgbjhifvi4sl773.onion/>
-* [mlp-node](http://mlpfim.ml/)
 * [mtest-FPM](http://irk39.tk/)
 
 Полный список [здесь](http://ii-net.tk/station.html).
@@ -71,7 +70,6 @@ iitxt - текстовый клиент для разных ОС (удобен �
 
 * <http://ii-net.tk/ii/ii2rss.php>
 * <http://spline.rooker.ru/ii/ii2rss.php>
-* <http://mlpfim.ml/ii2rss.php>
 * <http://irk39.tk/ii2rss.php>
 
 ### Как присоединиться:
