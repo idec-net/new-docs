@@ -1,6 +1,6 @@
 "<надо придумать название>" - это небольшое полузакрытое сообщество на окраине Интернета и в стороне от шума социальных сетей.
 
-Берёт своё начало от "Клуба хороших людей" (2014) и работает на распределённой технологии <название>, форкнутой от ii (всё от того же "клуба").
+Берёт своё начало от "Клуба хороших людей" (2014) и работает на распределённой технологии **IDEC** (ii-like Data Exchange Convention), форкнутой от **ii** (всё от того же "Клуба").
 
 Если вы устали от низкокачественного общения и тупняка в соцсетях, хотите спокойной и уютной малолюдной обстановки, приходите к нам.
 
@@ -31,18 +31,18 @@
 * [mira station](http://ii-net.tk/ii/ii-web.php)
 * [station13](http://spline.rooker.ru/ii/)
 * [Difrex](http://ii.difrex.ru/)
-* Anonymousa (филиал в Tor): <http://mtgbjhifvi4sl773.onion/>
+* [Anonymousa](http://mtgbjhifvi4sl773.onion/) (филиал в Tor)
 * [mtest-FPM](http://irk39.tk/)
 
 Полный список [здесь](http://ii-net.tk/station.html).
 
 #### Через клиенты:
-<Название Qt-клиента> - графический клиент для GNU/Linux и Windows/ReactOS. Написан на Python3 и Qt5.
+**CutieFeed** - графический клиент для GNU/Linux и Windows/ReactOS. Написан на Python3 и Qt5.
 
 [Скриншоты](qt-client-screens.md)
 
 Ссылки:
-* [Репозиторий на Github](https://github.com/vit1-irk/iicli-modular)
+* [Репозиторий на Github](https://github.com/vit1-irk/cutiefeed)
 * [Пакет для Debian](http://ii-net.tk/files/iicli-modular.deb)
 * [AUR (ArchLinux)](https://aur.archlinux.org/packages/iicli-modular)
 * [Установщик для Windows](http://ii-net.tk/files/iiclient.exe)
