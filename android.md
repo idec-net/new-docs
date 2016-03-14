@@ -37,7 +37,10 @@ cp caesium.def.cfg caesium.cfg
 nano caesium.cfg
 
 # патчим файл клавиш
-# пока патча нет =)
+patch caesium.py < keys_android.patch
+
+# либо правим caesium.py и меняем
+# from keys на from keys_android в первых строках
 
 # запускаем клиент
 python caesium.py
