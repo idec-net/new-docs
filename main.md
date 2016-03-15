@@ -43,10 +43,10 @@
 
 Ссылки:
 * [Репозиторий на Github](https://github.com/vit1-irk/cutiefeed)
-* [Пакет для Debian](http://ii-net.tk/files/iicli-modular.deb)
-* [AUR (ArchLinux)](https://aur.archlinux.org/packages/iicli-modular)
-* [Установщик для Windows](http://ii-net.tk/files/iiclient.exe)
-* [Portable-версия, Windows](http://ii-net.tk/files/ii-portable.zip)
+* [Пакет для Debian](http://ii-net.tk/files/cutiefeed.deb)
+* [AUR (ArchLinux)](https://aur.archlinux.org/packages/cutiefeed)
+* [Установщик для Windows](http://ii-net.tk/files/cutiefeed_setup.exe)
+* [Portable-версия, Windows](http://ii-net.tk/files/cutiefeed-portable.zip)
 
 **Цезий** - консольный клиент для GNU/Linux (работает в Windows через Cygwin). Написан на Python3 и ncurses.
 
