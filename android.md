@@ -28,7 +28,7 @@
 # подготавливаем
 apt update
 apt upgrade
-apt install python nano git
+apt install python nano git patch
 git clone https://github.com/spline1986/caesium
 cd caesium
 cp caesium.def.cfg caesium.cfg
