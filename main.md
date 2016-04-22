@@ -29,6 +29,7 @@
 
 #### Через веб-интерфейс:
 * [mira station](http://ii-net.tk/ii/ii-web.php)
+* [tavern](http://idec.spline-online.tk/)
 * [station13](http://spline.rooker.ru/ii/)
 * [Difrex](http://ii.difrex.ru/)
 * [Anonymousa](http://mtgbjhifvi4sl773.onion/) (филиал в Tor)
@@ -80,14 +81,14 @@
 
 * Через Email'ы наших людей (не забудьте немного рассказать о себе):
 	1. vit01 (mira station): <mailto:me@ii-net.tk>
-	2. Andrew Lobanov (station13): <mailto:spline@rooker.ru>
+	2. Andrew Lobanov (tavern, station13): <mailto:spline@rooker.ru>
 	3. Продолжение следует...
 
 ### Поднять собственную станцию
 
 У нас есть несколько реализаций сервера-ноды. Все подробности в Github-репозиториях по ссылкам. Если вы желаете примкнуть к сообществу, то обращаться (выше) к держателям уже существующих нод.
 
-* [PHP-версия](https://github.com/vit1-irk/ii-php) (полностью функциональна)
+* [PHP-версия](https://github.com/vit1-irk/ii-php) (полностью работоспособна)
 * [iing, Python3](https://github.com/spline1986/iing) (в процессе разработки)
 * [iicl, Common Lisp](https://github.com/spline1986/iicl) (минимально рабочая версия, умеет мало)
 
