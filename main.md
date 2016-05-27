@@ -40,6 +40,8 @@
 #### Через клиенты:
 **CutieFeed** - графический клиент для GNU/Linux и Windows/ReactOS. Написан на Python3 и Qt5.
 
+Последняя сборка для Windows и Debian от 27.05.2016.
+
 [Скриншоты](qt-client-screens.md)
 
 Ссылки:
