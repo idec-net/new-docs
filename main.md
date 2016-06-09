@@ -35,7 +35,7 @@
 * [Anonymousa](http://mtgbjhifvi4sl773.onion/) (филиал в Tor)
 * [mtest-FPM](http://irk39.tk/)
 
-Полный список [здесь](http://ii-net.tk/station.html).
+Полный список [здесь](full-stations.md).
 
 #### Через клиенты:
 **CutieFeed** - графический клиент для GNU/Linux и Windows/ReactOS. Написан на Python3 и Qt5.
@@ -65,7 +65,7 @@
 #### Дополнительно
 
 * [Инструкция по использованию клиентов на Android](android.md)
-* [Старые и все остальные клиенты](http://ii-net.tk/iidownload)
+* [Старые клиенты и дополнительный софт](old-other-soft.md)
 * [Рекомендации по оформлению сообщений](text-decoration.md)
 
 #### RSS
@@ -79,7 +79,7 @@
 
 * На этих станциях есть регистрация:
 	1. [mira station](http://ii-net.tk/ii/register.php)
-	2. [Anonymous (Tor)](http://mtgbjhifvi4sl773.onion/)
+	2. [Anonymous (Tor)](http://mtgbjhifvi4sl773.onion/reg)
 
 * Через Email'ы наших людей (не забудьте немного рассказать о себе):
 	1. vit01 (mira station): <mailto:me@ii-net.tk>
