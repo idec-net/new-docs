@@ -4,55 +4,47 @@
 
 ###### Успешное сохранение сообщения
 
-ii 0.3: `msg ok:<msgid>: <a href="/<msgid>"><msgid></a>`
-ii-php: `msg ok: <msgid>`
+- ii 0.3: `msg ok:<msgid>: <a href="/<msgid>"><msgid></a>`
+- ii-php: `msg ok: <msgid>`
 
 Где `<msgid>` - 20-значный id сохранённого в базе сообщения.
 
 ###### Ошибка авторизации, неверный пароль
 
-ii 0.3: `auth error!`
-ii-php: `error: no auth!`
+- ii 0.3: `auth error!`
+- ii-php: `error: no auth!`
 
 ###### Сообщение слишком большое, перешло лимит размера
 
-ii 0.3: `msg big!`
-ii-php: `error: msg big!` (иногда без восклицательного знака в конце)
+- ii 0.3: `msg big!`
+- ii-php: `error: msg big!` (иногда без восклицательного знака в конце)
 
 ###### Неизвестная ошибка при сохранении
 
-ii 0.3: `error:unknown`
+- ii 0.3: `error:unknown`
 
 ### Дальше всё следует только для ii-php, поэтому без больших заголовков
 
 ###### /u/push
-Успешное сохранение сообщения: `message saved: ok: <msgid>`
-
-Ошибка при парсинге данных: `error: wrong data; continue...`
-
-Ошибка авторизации: `error: no auth`
+- Успешное сохранение сообщения: `message saved: ok: <msgid>`
+- Ошибка при парсинге данных: `error: wrong data; continue...`
+- Ошибка авторизации: `error: no auth`
 
 ###### Ошибки для /x/file
 
-Не распознаётся имя файла: `error: specify file name`
-Доступ к приватному файлу с неверными данными авторизации, либо доступ к несуществующему файлу: `error: file does not exist or wrong authstr`
+- Не распознаётся имя файла: `error: specify file name`
+- Доступ к приватному файлу с неверными данными авторизации, либо доступ к несуществующему файлу: `error: file does not exist or wrong authstr`
 
 ###### Стандартные ошибки API
 
-Аргументы и схемы не совпадают со стандартом: `error: wrong arguments` или `error: wrong api calls`
-
-Ошибка парсинга GET параметров: `error: can't parse GET arguments`
-
-Отсутствие GET параметра: `error: please specify API query with 'q' GET parameter`
-
-Ошибка парсинга схемы `/u/m`: `error: where are your msgids?`
+- Аргументы и схемы не совпадают со стандартом: `error: wrong arguments` или `error: wrong api calls`
+- Ошибка парсинга GET параметров: `error: can't parse GET arguments`
+- Отсутствие GET параметра: `error: please specify API query with 'q' GET parameter`
+- Ошибка парсинга схемы `/u/m`: `error: where are your msgids?`
 
 ###### Ошибки сохранения в базе
 
-Название эхи не совпадает со стандартом: `error: wrong echo`
-
-id сообщения не совпадает со стандартом: `error: incorrect msgid`
-
-Отказ из-за наличия в чёрном списке: `error: msgid is blacklisted: <msgid>`
-
-Ошибка парсинга строки бандла или распакованного содержимого: `invalid message: <msgid>`
+- Название эхи не совпадает со стандартом: `error: wrong echo`
+- id сообщения не совпадает со стандартом: `error: incorrect msgid`
+- Отказ из-за наличия в чёрном списке: `error: msgid is blacklisted: <msgid>`
+- Ошибка парсинга строки бандла или распакованного содержимого: `invalid message: <msgid>`
