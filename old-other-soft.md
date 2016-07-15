@@ -41,6 +41,7 @@
 ### Другое
 
 * RSS бот на python: [Github](https://github.com/spline1986/rss2ii)
+* Другой (улучшенный) RSS бот на python: [Github](https://github.com/spline1986/rss2idec)
 * Скрипты для работы с классической базой данных + offline-нодообмен + busybox-клиент: [Github](https://github.com/vit1-irk/ii-db-utils)
 * Другие скрипты для обслуживания базы: [Github](https://github.com/spline1986/idec-utils)
 * Реализация ii для обмена через sftp: [Github](https://github.com/vit1-irk/iissh)
