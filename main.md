@@ -51,7 +51,7 @@
 * [Установщик для Windows](http://ii-net.tk/files/cutiefeed_setup.exe)
 * [Portable-версия, Windows](http://ii-net.tk/files/cutiefeed-portable.zip)
 
-**Цезий** - консольный клиент для GNU/Linux (работает в Windows через Cygwin). Написан на Python3 и ncurses.
+**Цезий** - консольный клиент для GNU/Linux (но работает в Windows через Cygwin и даже в Haiku). Написан на Python3 и ncurses.
 
 [Скриншоты](caesium-screens.md)
 
