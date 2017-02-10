@@ -28,7 +28,7 @@
 ### Как читать и общаться:
 
 #### Через веб-интерфейс:
-* [mira station](http://ii-net.tk/ii/ii-web.php)
+* [mira station](https://ii-net.tk/ii/ii-web.php)
 * [tavern](http://idec.spline-online.tk/)
 * [station13](http://spline.rooker.ru/ii/)
 * [Difrex](http://ii.difrex.ru/)
@@ -46,10 +46,10 @@
 
 Ссылки:
 * [Репозиторий на Github](https://github.com/vit1-irk/cutiefeed)
-* [Пакет для Debian](http://ii-net.tk/files/cutiefeed.deb)
+* [Пакет для Debian](https://ii-net.tk/files/cutiefeed.deb)
 * [AUR (ArchLinux)](https://aur.archlinux.org/packages/cutiefeed)
-* [Установщик для Windows](http://ii-net.tk/files/cutiefeed_setup.exe)
-* [Portable-версия, Windows](http://ii-net.tk/files/cutiefeed-portable.zip)
+* [Установщик для Windows](https://ii-net.tk/files/cutiefeed_setup.exe)
+* [Portable-версия, Windows](https://ii-net.tk/files/cutiefeed-portable.zip)
 
 **Цезий** - консольный клиент для GNU/Linux (но работает в Windows через Cygwin и даже в Haiku). Написан на Python3 и ncurses.
 
@@ -75,14 +75,14 @@
 #### RSS
 `Для просмотра нужной эхи ставите ii2rss.php?echo=эха`
 
-* <http://ii-net.tk/ii/ii2rss.php>
+* <https://ii-net.tk/ii/ii2rss.php>
 * <http://spline.rooker.ru/ii/ii2rss.php>
 * <http://irk39.tk/ii2rss.php>
 
 ### Как присоединиться:
 
 * На этих станциях есть регистрация:
-	1. [mira station](http://ii-net.tk/ii/register.php)
+	1. [mira station](https://ii-net.tk/ii/register.php)
 	2. [Anonymous (Tor)](http://mtgbjhifvi4sl773.onion/reg)
 
 * Через Email'ы наших людей (не забудьте немного рассказать о себе):
