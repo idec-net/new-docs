@@ -58,13 +58,17 @@
 Ссылки:
 * [Репозиторий на Github](https://github.com/spline1986/caesium)
 
+**IDEC Mobile** - клиент для Android. Поддерживаются системы версии 4.0.3 и выше.
+* [Скачать APK](https://ii-net.tk/ii/files/app-debug.apk)
+* [Github](https://github.com/vit1-irk/idec-mobile)
+* [Ещё немного по общению в IDEC на ОС Android](android.md)
+
 **iitxt** - текстовый клиент для разных ОС (удобен для работы в скриптах или из консоли)
 * [Python3-версия](https://github.com/spline1986/iitxt)
 * [Реализация на С](https://github.com/vit1-irk/iitxt-c)
 
 #### Дополнительно
 
-* [Клиенты для ОС Android и инструкции по их установке](android.md)
 * [Старые клиенты и дополнительный софт](old-other-soft.md)
 * [Рекомендации по оформлению сообщений](text-decoration.md)
 
