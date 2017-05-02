@@ -16,11 +16,10 @@
    * Поддерживается Difrex
    * Доступ через клиент: <http://ii.difrex.ru/>
    * Станция репостит новости с Хабрахабра, синхронизация по минимуму (служебный узел)
-5. [Anonymousa](http://mtgbjhifvi4sl773.onion/)
+5. [lessmore](https://dynamic.lessmore.pw/)
    * Поддерживается Difrex
-   * Доступ через клиент: <http://mtgbjhifvi4sl773.onion/>
-   * Регистрация: <http://mtgbjhifvi4sl773.onion/reg>
-   * Является заброшенным филиалом "Секты" и ii в Торе. Доступ для всех желающих
+   * Доступ через клиент: <https://dynamic.lessmore.pw/idec/>
+   * Агрегатор сети, собирает все сообщения в одну ленту
 6. [mtest](http://irk39.tk)
    * Поддерживается vit01
    * Доступ через клиент: <http://irk39.tk/ii-point.php?q=/>
