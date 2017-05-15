@@ -1,4 +1,14 @@
-## Остальной (и устаревший) софт для технологий ii и IDEC
+## Скрипты и боты
+
+* RSS-бот на python3: [Github](http://git.spline-online.tk/spline/rss2idec)
+* Скрипты для работы с классической базой данных + offline-нодообмен + busybox-клиент: [Github](https://github.com/vit1-irk/ii-db-utils)
+* Другие скрипты для обслуживания базы: [Github](https://github.com/spline1986/idec-utils)
+* Реализация ii для обмена через sftp: [Github](https://github.com/vit1-irk/iissh)
+* Бот для отслеживания международных посылок: [Github](https://github.com/vit1-irk/idec-post-tracker)
+
+## Устаревший софт для технологий ii и IDEC
+
+Скорее всего, вам ничего здесь не понадобится.
 
 ### Серверная часть
 
@@ -28,6 +38,9 @@
   * [Github](https://github.com/spline1986/clii)
 7. Консольный read-only клиент на dialog:
   * [Bitbucket](https://bitbucket.org/romiq/ii-dialog)
+8. Андроид-клиент для ii 2014 года, требуется дополнительная настройка
+  * [Ссылка 1](https://yadi.sk/d/iCL2ob75cfykh)
+  * [Ссылка 2](https://yadi.sk/d/zF477StyZ8NWX)
 
 ### Пакеты для GNU/Linux дистрибутивов</h2>
 
@@ -37,12 +50,3 @@
 * Debian: [.DEB](http://ii-net.tk/files/ii-net_03-6_all.deb)
 * AltLinux: [.RPM](http://ii-net.tk/files/ii-net-03-6.noarch.rpm)
 * Gentoo: ебилд ii-net в оверлее [qwin-overlay](https://github.com/Flex1911/qwin-overlay/)
-
-### Другое
-
-* RSS бот на python: [Github](https://github.com/spline1986/rss2ii)
-* Другой (улучшенный) RSS бот на python: [Github](https://github.com/spline1986/rss2idec)
-* Скрипты для работы с классической базой данных + offline-нодообмен + busybox-клиент: [Github](https://github.com/vit1-irk/ii-db-utils)
-* Другие скрипты для обслуживания базы: [Github](https://github.com/spline1986/idec-utils)
-* Реализация ii для обмена через sftp: [Github](https://github.com/vit1-irk/iissh)
-* Фетчер, парсер веб-сайтов и граббер контента в одном флаконе: <http://hg.51t.ru/ii/file/71becb334e4f/tools/gate>
