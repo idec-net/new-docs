@@ -5,8 +5,9 @@
 
 - [IDEC protocol](#idec-protocol)
     - [Names convention](#names-convention)
-    - [Base methods(HTTP)](#base-methodshttp)
-        - [Location /u/ scheme](#location-u-scheme)
+- [API(HTTP)](#apihttp)
+    - [Base methods](#base-methods)
+        - [Location /u/](#location-u)
             - [GET /u/e/echoe.1/echoe.2/.../echoe.n](#get-ueechoe1echoe2echoen)
                 - [Example](#example)
             - [GET /u/m/msgid/msgid/msgid/.../msgidN](#get-ummsgidmsgidmsgidmsgidn)
@@ -20,6 +21,12 @@
                 - [Example](#example)
         - [Location /m/](#location-m)
             - [GET /m/msgid](#get-mmsgid)
+                - [Example](#example)
+    - [Extensions](#extensions)
+        - [Location /x/](#location-x)
+            - [GET /x/c/echo.1/echo.2](#get-xcecho1echo2)
+                - [Example](#example)
+            - [GET /x/features](#get-xfeatures)
                 - [Example](#example)
 
 <!-- markdown-toc end -->
