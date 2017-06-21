@@ -34,15 +34,15 @@
 
 ## Names convention
 
-  * echo name must be containt a dot <.>: ```music.14```
-  * msgID is a unique 20-symbol piece of sha256 hash of base64.
+  * echoarea name must contain a dot <.>: ```music.14```
+  * msgID is a unique 20-symbol piece of base64-encoded sha256 hash. Special base64 symbols like `+` and `/` must be replaced by readable letters (like A and Z for example).
 
 # API(HTTP)
 ## Base methods
 ### Location /u/
 #### GET /u/e/echoe.1/echoe.2/.../echoe.n
 
-Return list of msgID by echo.
+Return list of msgIDs related to specified echoareas.
 
 ##### Example
 ```
@@ -59,7 +59,15 @@ WMJaWs1uKJZXkGTXL8Qp
 
 #### GET /u/m/msgid/msgid/msgid/.../msgidN
 
-The bundle. The primary way to receive messages on the client and the server.
+The bundle. The primary way to receive messages on the client and on the server. Format:
+
+```
+msgid:<base64-encoded message>
+msgid:<base64-encoded message>
+msgid:<base64-encoded message>
+msgid:<base64-encoded message>
+... and so on ...
+```
 
 ##### Example
 
@@ -75,7 +83,7 @@ Parameters:
   * pauth: user authstring
   * tmsg: base64 encoded urlsafe message
   
-Maximum message size is 87382 bytes.
+Maximum message size is 87382 bytes (because base64-encoded message would be 64k in size).
   
 ##### Example
 
@@ -89,9 +97,9 @@ Parameters:
 
   * pauth: user authstring
   * tmsg: base64 encoded urlsafe message
-  
-Maximum message size is 87382 bytes.
-  
+
+Maximum message size is 87382 bytes (reason explained above).
+
 ##### Example
 
 ```
