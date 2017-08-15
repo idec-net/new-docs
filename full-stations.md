@@ -20,9 +20,9 @@
    * Поддерживается Difrex
    * Доступ через клиент: <https://dynamic.lessmore.pw/idec/>
    * Агрегатор сети, собирает все сообщения в одну ленту
-6. [mtest](http://irk39.tk)
+6. [mtest](http://iipython-vitirk.rhcloud.com)
    * Поддерживается vit01
-   * Доступ через клиент: <http://irk39.tk/ii-point.php?q=/>
+   * Доступ через клиент: <http://iipython-vitirk.rhcloud.com/ii-point.php?q=/>
    * На mtest проживают материалы группы "Фонд Потерянных Медиаторов"
    * Есть полная синхронизация с основной сетью.
 7. [alicorn-archive](http://alicorn.tk/ii-old)

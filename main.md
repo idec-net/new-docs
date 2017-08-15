@@ -33,7 +33,7 @@
 * [station13](http://spline.rooker.ru/ii/)
 * [Difrex](http://ii.difrex.ru/)
 * [Anonymousa](http://mtgbjhifvi4sl773.onion/) (филиал в Tor)
-* [mtest-FPM](http://irk39.tk/)
+* [mtest-FPM](http://iipython-vitirk.rhcloud.com/)
 
 Полный список [здесь](full-stations.md).
 
@@ -78,7 +78,7 @@
 `Для просмотра нужной эхи ставите ii2rss.php?echo=эха`
 
 * <https://ii-net.tk/ii/ii2rss.php>
-* <http://irk39.tk/ii2rss.php>
+* <http://iipython-vitirk.rhcloud.com/ii2rss.php>
 
 ### Как присоединиться:
 
