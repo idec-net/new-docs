@@ -69,6 +69,10 @@
 * [Python3-версия](https://github.com/spline1986/iitxt)
 * [Реализация на С](https://github.com/vit1-irk/iitxt-c)
 
+**idec.el** - клиент для GNU Emacs. Находится в стадии активной разработки, доступна alpha-версия.
+* [Репозиторий на Github](https://github.com/Difrex/idec.el)
+* [Основной репозиторий](https://gitea.difrex.ru/Difrex/idec.el)
+
 #### Дополнительно
 
 * [Старые клиенты и дополнительный софт](old-other-soft.md)
