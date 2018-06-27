@@ -70,7 +70,7 @@
 * [Реализация на С](https://github.com/vit1-irk/iitxt-c)
 
 **idec.el** - клиент для GNU Emacs. Находится в стадии активной разработки, доступна alpha-версия.
-* [Репозиторий на Github](https://github.com/Difrex/idec.el)
+* [Репозиторий на Github](https://github.com/idec-net/idec.el)
 * [Основной репозиторий](https://gitea.difrex.ru/Difrex/idec.el)
 
 #### Дополнительно
