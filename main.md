@@ -28,12 +28,10 @@
 ### Как читать и общаться:
 
 #### Через веб-интерфейс:
+* [INSTEAD Клуб](http://club.syscall.ru/)
+* [tavern](http://idec.spline-online.ml/)
 * [mira station](https://ii-net.tk/ii/ii-web.php)
-* [tavern](http://idec.spline-online.tk/)
-* [station13](http://spline.rooker.ru/ii/)
-* [Difrex](http://ii.difrex.ru/)
-* [Anonymousa](http://mtgbjhifvi4sl773.onion/) (филиал в Tor)
-* [mtest-FPM](http://iipython-vitirk.rhcloud.com/)
+* [LessMore](https://dynamic.lessmore.pw/)
 
 Полный список [здесь](full-stations.md).
 
@@ -46,7 +44,7 @@
 Ссылки:
 * [Репозиторий на Github](https://github.com/spline1986/caesium)
 
-**IDEC Mobile** - клиент для Android. Поддерживаются системы версии 4.0.3 и выше.
+**IDEC Mobile** - клиент для Android. Поддерживаются системы версии 4.4 и выше.
 * [Скачать APK](https://ii-net.tk/ii/files/app-debug.apk)
 * [Github](https://github.com/vit1-irk/idec-mobile)
 * [Ещё немного по общению в IDEC на ОС Android](android.md)
@@ -54,20 +52,20 @@
 
 **CutieFeed** - графический клиент для GNU/Linux и Windows/ReactOS. Написан на Python3 и Qt5.
 
-Последняя сборка для Windows и Debian от 27.05.2016.
+Последняя сборка для Windows и Debian от 27.05.2016. *Актуальная сборка лежит на Github и тестируется только на GNU/Linux*
 
 [Скриншоты](qt-client-screens.md)
 
 Ссылки:
 * [Репозиторий на Github](https://github.com/vit1-irk/cutiefeed)
-* [Пакет для Debian](https://ii-net.tk/files/cutiefeed.deb)
 * [AUR (ArchLinux)](https://aur.archlinux.org/packages/cutiefeed)
+* [Пакет для Debian](https://ii-net.tk/files/cutiefeed.deb)
 * [Установщик для Windows](https://ii-net.tk/files/cutiefeed_setup.exe)
 * [Portable-версия, Windows](https://ii-net.tk/files/cutiefeed-portable.zip)
 
 **iitxt** - текстовый клиент для разных ОС (удобен для работы в скриптах или из консоли)
 * [Python3-версия](https://github.com/spline1986/iitxt)
-* [Реализация на С](https://github.com/vit1-irk/iitxt-c)
+* [Реализация на С](https://github.com/idec-net/iitxt-c)
 
 **idec.el** - клиент для GNU Emacs. Находится в стадии активной разработки, доступна alpha-версия.
 * [Репозиторий на Github](https://github.com/idec-net/idec.el)
@@ -79,16 +77,16 @@
 * [Рекомендации по оформлению сообщений](text-decoration.md)
 
 #### RSS
-`Для просмотра нужной эхи ставите ii2rss.php?echo=эха`
+`Замените idec.talks в адресе на нужную вам эху`
 
-* <https://ii-net.tk/ii/ii2rss.php>
-* <http://iipython-vitirk.rhcloud.com/ii2rss.php>
+* <http://idec.spline-online.ml/rss/idec.talks>
+* <http://club.syscall.ru/rss/idec.talks>
+* <https://ii-net.tk/ii/ii2rss.php?echo=idec.talks>
 
 ### Как присоединиться:
 
 * На этих станциях есть регистрация:
-	1. [mira station](https://ii-net.tk/ii/register.php)
-	2. [Anonymous (Tor)](http://mtgbjhifvi4sl773.onion/reg)
+	1. [INSTEAD клуб](http://club.syscall.ru/)
 
 * Через Email'ы наших людей (не забудьте немного рассказать о себе):
 	1. vit01 (mira station): <mailto:me@ii-net.tk>
@@ -99,8 +97,8 @@
 
 У нас есть несколько реализаций сервера-ноды. Все подробности в Github-репозиториях по ссылкам. Если вы желаете примкнуть к сообществу, то обращаться (выше) к держателям уже существующих нод.
 
-* [PHP-версия](https://github.com/vit1-irk/ii-php) (полностью работоспособна)
-* [iing, Python3](https://github.com/spline1986/iing) (в процессе разработки)
+* [iing, Python3](https://github.com/spline1986/iing) (активно развивается)
+* [PHP-версия](https://github.com/vit1-irk/ii-php) (работает, но уже малоактуальна)
 * [iicl, Common Lisp](https://github.com/spline1986/iicl) (минимально рабочая версия, умеет мало)
 
 ### Частые вопросы (FAQ):

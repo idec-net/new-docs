@@ -233,7 +233,7 @@ Return list of public available echoes (the hidden ones are just hidden, but ava
 #### Example
 
 ```
-curl -XGET http://idec.spline-online.tk/list.txt
+curl -XGET http://idec.spline-online.ml/list.txt
 bash.rss:4993:RSS с сайта bash.im
 creepy.14:321:Страшные истории
 develop.16:206:Обсуждение вопросов программирования
@@ -304,7 +304,7 @@ All types of servers must print ```message saved: ok``` for each successfull sav
 #### Example
 
 ```
-curl -XPOST http://idec.spline-online.tk/u/push -d '{
+curl -XPOST http://idec.spline-online.ml/u/push -d '{
   "nauth": "authstring",
   "upush": "WMJaWs1uKJZXkGTXL8Qp:SGVsbG8sIFdvcmxkIQo=",
   "echoarea": "test.15"
@@ -318,7 +318,7 @@ Bad messages list. Return list of msgids. These messages are not accepted on the
 #### Example
 
 ```
-curl -XGET http://idec.spline-online.tk/blacklist.txt
+curl -XGET http://idec.spline-online.ml/blacklist.txt
 KNMUXRTMJA6XWHMB22CD
 6AKO6DEWYF7EHXWMI2BY
 qcYj9ceDYjoxt2z6qhzN
@@ -338,7 +338,7 @@ The offset can be negative. If parameter is wrong, returns whole echoes.
 #### Example
 
 ```
-curl -XGET http://idec.spline-online.tk/u/e/ii.test.14/test.15/1:2
+curl -XGET http://idec.spline-online.ml/u/e/ii.test.14/test.15/1:2
 ii.test.14
 7pHGprJwLFezD1JSHsd2
 tL5FvcJGqtd4wg2PB6pD
@@ -361,7 +361,7 @@ If client has passed, the server appends hidden files to filelist (if available)
 ##### Example
 
 ```
-curl -XGET http://idec.spline-online.tk/x/filelist/authstring
+curl -XGET http://idec.spline-online.ml/x/filelist/authstring
 haiku_caesium.png:22368:Цезий под Haiku OS
 hotdoged0.png:83425:Редактор HotdogEd
 hotdoged1.png:69114:Редактор HotdogEd
@@ -381,7 +381,7 @@ If client has passed authorization node appends hidden files to filelist.
 ##### Example
 
 ```
-curl -XGET http://idec.spline-online.tk/x/filelist -d '{"pauth": "authstring"}'
+curl -XGET http://idec.spline-online.ml/x/filelist -d '{"pauth": "authstring"}'
 haiku_caesium.png:22368:Цезий под Haiku OS
 hotdoged0.png:83425:Редактор HotdogEd
 hotdoged1.png:69114:Редактор HotdogEd
@@ -401,7 +401,7 @@ If filename is empty returns error: ```error: specify file name```.
 ##### Example
 
 ```
-curl -XGET http://idec.spline-online.tk/x/file/hotdoged0.png >/dev/null
+curl -XGET http://idec.spline-online.ml/x/file/hotdoged0.png >/dev/null
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100 83425  100 83425    0     0  31967      0  0:00:02  0:00:02 --:--:-- 31963
@@ -421,7 +421,7 @@ If filename is empty returns error: ```error: specify file name```.
 ##### Example
 
 ```
-curl -XPOST http://idec.spline-online.tk/x/file/hotdoged0.png -d '{"pauth": "authstring"}' >/dev/null
+curl -XPOST http://idec.spline-online.ml/x/file/hotdoged0.png -d '{"pauth": "authstring"}' >/dev/null
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100 83425  100 83425    0     0  31967      0  0:00:02  0:00:02 --:--:-- 31963

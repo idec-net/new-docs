@@ -1,17 +1,17 @@
 ### Узлы "Секты плохих парней"
 
-1. [Mira Station](https://ii-net.tk/ii/ii-web.php)
+1. [INSTEAD Клуб](http://club.syscall.ru/)
+   * Поддерживается Peter
+   * Доступ через клиент: <http://club.syscall.ru/>
+   * Свободная регистрация
+2. [Таверна](http://idec.spline-online.ml/)
+   * Поддерживается Andrew Lobanov
+   * Доступ через клиент: <http://idec.spline-online.ml/>
+   * Для подключения писать на <spline@rooker.ru> (укажите ник и немного информации о себе).
+3. [Mira Station](https://ii-net.tk/ii/ii-web.php)
    * Поддерживается vit01
    * Доступ через клиент: <https://ii-net.tk/ii/ii-point.php?q=/>
-   * Если хочется присоединиться иначе, обращайтесь на <me@ii-net.tk> и не забудьте рассказать немного о себе :)
-2. [Таверна](http://idec.spline-online.tk/)
-   * Поддерживается Andrew Lobanov
-   * Доступ через клиент: <http://idec.spline-online.tk/>
-   * Для подключения писать на <spline@rooker.ru> (укажите ник и немного информации о себе).
-3. [Difrex](http://ii.difrex.ru)
-   * Поддерживается Difrex
-   * Доступ через клиент: <http://ii.difrex.ru/>
-   * Станция репостит новости с Хабрахабра, синхронизация по минимуму (служебный узел)
+   * Если хочется присоединиться, обращайтесь на <me@ii-net.tk> и не забудьте рассказать немного о себе :)
 4. [lessmore](https://dynamic.lessmore.pw/)
    * Поддерживается Difrex
    * Доступ через клиент: <https://dynamic.lessmore.pw/idec/>

@@ -1,6 +1,6 @@
 ## Скрипты и боты
 
-* RSS-бот на python3: [Github](http://git.spline-online.tk/spline/rss2idec)
+* RSS-бот на python3: [Github](http://github.com/idec-net/rss2idec)
 * Скрипты для работы с классической базой данных + offline-нодообмен + busybox-клиент: [Github](https://github.com/vit1-irk/ii-db-utils)
 * Другие скрипты для обслуживания базы: [Github](https://github.com/spline1986/idec-utils)
 * Реализация ii для обмена через sftp: [Github](https://github.com/vit1-irk/iissh)
