@@ -178,10 +178,12 @@ Parameters:
 
 Maximum message size is 87382 bytes (reason explained above).
 
+Respose must be started with `msg ok` string.
+
 ##### Example
 
 ```
-curl -XPOST http://dynamic.lessmore.pw/idec/u/point -d '{"pauth": "myauthstring", "tmsg": "SGVsbG8sIFdvcmxkIQo="}'
+curl -XPOST http://dynamic.lessmore.pw/idec/u/point -d 'pauth=myauthstring&tmsg=SGVsbG8sIFdvcmxkIQo='
 ```
 
 ### Location /e/
@@ -304,11 +306,7 @@ All types of servers must print ```message saved: ok``` for each successfull sav
 #### Example
 
 ```
-curl -XPOST http://idec.spline-online.ml/u/push -d '{
-  "nauth": "authstring",
-  "upush": "WMJaWs1uKJZXkGTXL8Qp:SGVsbG8sIFdvcmxkIQo=",
-  "echoarea": "test.15"
-}'
+curl -XPOST http://idec.spline-online.ml/u/push -d 'nauth=authstring&upush=MJaWs1uKJZXkGTXL8Qp:SGVsbG8sIFdvcmxkIQo=&echoareatest.15'
 ```
 
 ### GET /blacklist.txt
@@ -381,7 +379,7 @@ If client has passed authorization node appends hidden files to filelist.
 ##### Example
 
 ```
-curl -XGET http://idec.spline-online.ml/x/filelist -d '{"pauth": "authstring"}'
+curl -XGET http://idec.spline-online.ml/x/filelist -d 'pauth=authstring'
 haiku_caesium.png:22368:Цезий под Haiku OS
 hotdoged0.png:83425:Редактор HotdogEd
 hotdoged1.png:69114:Редактор HotdogEd
@@ -421,7 +419,7 @@ If filename is empty returns error: ```error: specify file name```.
 ##### Example
 
 ```
-curl -XPOST http://idec.spline-online.ml/x/file/hotdoged0.png -d '{"pauth": "authstring"}' >/dev/null
+curl -XPOST http://idec.spline-online.ml/x/file/hotdoged0.png -d 'pauth=authstring' >/dev/null
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100 83425  100 83425    0     0  31967      0  0:00:02  0:00:02 --:--:-- 31963

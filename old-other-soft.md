@@ -38,9 +38,6 @@
   * [Github](https://github.com/spline1986/clii)
 7. Консольный read-only клиент на dialog:
   * [Bitbucket](https://bitbucket.org/romiq/ii-dialog)
-8. Андроид-клиент для ii 2014 года, требуется дополнительная настройка
-  * [Ссылка 1](https://yadi.sk/d/iCL2ob75cfykh)
-  * [Ссылка 2](https://yadi.sk/d/zF477StyZ8NWX)
 
 ### Пакеты для GNU/Linux дистрибутивов</h2>
 
