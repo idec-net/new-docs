@@ -16,6 +16,7 @@
    * Поддерживается Difrex
    * Доступ через клиент: <https://dynamic.lessmore.pw/idec/>
    * Агрегатор сети, собирает все сообщения в одну ленту
+   * Для подключения писать на <difrex@lessmore.pw>
 5. [alicorn-archive](http://alicorn.tk/ii-old)
    * Поддерживается vit01
    * Доступ через клиент: <https://alicorn.tk/ii-old/ii-point.php?q=/>
