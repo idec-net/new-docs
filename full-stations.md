@@ -7,7 +7,7 @@
 2. [Таверна](http://idec.spline-online.ml/)
    * Поддерживается Andrew Lobanov
    * Доступ через клиент: <http://idec.spline-online.ml/>
-   * Для подключения писать на <spline@rooker.ru> (укажите ник и немного информации о себе).
+   * Для подключения писать на <spline1986@yandex.ru> (укажите ник и немного информации о себе).
 3. [Mira Station](https://ii-net.tk/ii/ii-web.php)
    * Поддерживается vit01
    * Доступ через клиент: <https://ii-net.tk/ii/ii-point.php?q=/>
