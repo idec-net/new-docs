@@ -91,7 +91,7 @@
 
 * Через Email'ы наших людей (не забудьте немного рассказать о себе):
 	1. vit01 (mira station): <mailto:me@ii-net.tk>
-	2. Andrew Lobanov (tavern, station13): <mailto:spline@rooker.ru>
+	2. Andrew Lobanov (tavern, station13): <mailto:spline1986@yandex.ru>
 	3. Продолжение следует...
 
 ### Поднять собственную станцию
