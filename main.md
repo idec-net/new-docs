@@ -32,7 +32,7 @@
 * [INSTEAD Клуб](http://club.syscall.ru/)
 * [tavern](http://idec.spline-online.ml/)
 * [mira station](https://ii-net.tk/ii/ii-web.php)
-* [LessMore](https://dynamic.lessmore.pw/)
+* [dynamic](https://dynamic.lessmore.pw/)
 
 Полный список [здесь](full-stations.md).
 
@@ -64,13 +64,13 @@
 * [Установщик для Windows](https://ii-net.tk/files/cutiefeed_setup.exe)
 * [Portable-версия, Windows](https://ii-net.tk/files/cutiefeed-portable.zip)
 
-**iitxt** - текстовый клиент для разных ОС (удобен для работы в скриптах или из консоли)
-* [Python3-версия](https://github.com/spline1986/iitxt)
-* [Реализация на С](https://github.com/idec-net/iitxt-c)
-
 **idec.el** - клиент для GNU Emacs. Находится в стадии активной разработки, доступна alpha-версия.
 * [Репозиторий на Github](https://github.com/idec-net/idec.el)
 * [Основной репозиторий](https://gitea.difrex.ru/Difrex/idec.el)
+
+**iitxt** - текстовый клиент для разных ОС (удобен для работы в скриптах или из консоли)
+* [Python3-версия](https://github.com/spline1986/iitxt)
+* [Реализация на С](https://github.com/idec-net/iitxt-c)
 
 #### Дополнительно
 
@@ -92,7 +92,8 @@
 * Через Email'ы наших людей (не забудьте немного рассказать о себе):
 	1. vit01 (mira station): <mailto:me@ii-net.tk>
 	2. Andrew Lobanov (tavern, station13): <mailto:spline1986@yandex.ru>
-	3. Продолжение следует...
+    3. Denis Zheleztsov (dynamic): <mailto:difrex@lessmore.pw>
+	4. Продолжение следует...
 
 ### Поднять собственную станцию
 
