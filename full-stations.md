@@ -17,10 +17,10 @@
    * Доступ через клиент: <https://dynamic.lessmore.pw/idec/>
    * Агрегатор сети, собирает все сообщения в одну ленту
    * Для подключения писать на <difrex@lessmore.pw>
+   * [Зеркало в Tor](http://ideclubzduruedpzzrxxbt2hk6apecuhni5vnjlsqg2t3gdet26fjyid.onion)
 5. [alicorn-archive](http://alicorn.tk/ii-old)
    * Поддерживается vit01
    * Доступ через клиент: <https://alicorn.tk/ii-old/ii-point.php?q=/>
    * Является нашим архивом сообщений.
    * Режим - Read-Only
    * Дамп базы данных: <https://alicorn.tk/ii-old/database.tar.xz>
-   
