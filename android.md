@@ -22,7 +22,7 @@
 
 Ссылки:
 
-* [Github](https://github.com/vit1-irk/idec-mobile)
+* [Github](https://github.com/idec-net/idec-mobile)
 * [APK текущей версии](https://ii-net.tk/ii/files/app-debug.apk)
 
 #### Клиент Цезий
@@ -87,4 +87,4 @@ git clone https://github.com/spline1986/iitxt
 
 Есть готовая сборка, но также можно собрать его самому через кросс-компилятор (Android NDK) или с помощью GCC из Termux.
 
-* [Репозиторий](https://github.com/vit1-irk/iitxt-c) с кодом и инструкцией по использованию
+* [Репозиторий](https://github.com/idec-net/iitxt-c) с кодом и инструкцией по использованию
