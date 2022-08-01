@@ -31,7 +31,6 @@
 #### Через веб-интерфейс:
 * [INSTEAD Клуб](http://club.syscall.ru/)
 * [tavern](http://idec.spline-online.ml/)
-* [mira station](https://ii-net.tk/ii/ii-web.php)
 * [dynamic](https://dynamic.lessmore.pw/)
 
 Полный список [здесь](full-stations.md).
@@ -47,7 +46,7 @@
 
 **IDEC Mobile** - клиент для Android. Поддерживаются системы версии 4.4 и выше.
 * [Скачать APK](https://ii-net.tk/ii/files/app-debug.apk)
-* [Github](https://github.com/vit1-irk/idec-mobile)
+* [Github](https://github.com/idec-net/idec-mobile)
 * [Ещё немного по общению в IDEC на ОС Android](android.md)
 
 
@@ -58,7 +57,7 @@
 [Скриншоты](qt-client-screens.md)
 
 Ссылки:
-* [Репозиторий на Github](https://github.com/vit1-irk/cutiefeed)
+* [Репозиторий на Github](https://github.com/idec-net/cutiefeed)
 * [AUR (ArchLinux)](https://aur.archlinux.org/packages/cutiefeed)
 * [Пакет для Debian](https://ii-net.tk/files/cutiefeed.deb)
 * [Установщик для Windows](https://ii-net.tk/files/cutiefeed_setup.exe)
@@ -82,7 +81,6 @@
 
 * <http://idec.spline-online.ml/rss/idec.talks>
 * <http://club.syscall.ru/rss/idec.talks>
-* <https://ii-net.tk/ii/ii2rss.php?echo=idec.talks>
 
 ### Как присоединиться:
 
@@ -90,17 +88,16 @@
 	1. [INSTEAD клуб](http://club.syscall.ru/)
 
 * Через Email'ы наших людей (не забудьте немного рассказать о себе):
-	1. vit01 (mira station): <mailto:me@ii-net.tk>
-	2. Andrew Lobanov (tavern, station13): <mailto:spline1986@yandex.ru>
-    3. Denis Zheleztsov (dynamic): <mailto:difrex@lessmore.pw>
-	4. Продолжение следует...
+	1. Andrew Lobanov (tavern, station13): <mailto:spline1986@yandex.ru>
+	2. Denis Zheleztsov (dynamic): <mailto:difrex@lessmore.pw>
+	3. Продолжение следует...
 
 ### Поднять собственную станцию
 
 У нас есть несколько реализаций сервера-ноды. Все подробности в Github-репозиториях по ссылкам. Если вы желаете примкнуть к сообществу, то обращаться (выше) к держателям уже существующих нод.
 
 * [iing, Python3](https://github.com/spline1986/iing) (активно развивается)
-* [PHP-версия](https://github.com/vit1-irk/ii-php) (работает, но уже малоактуальна)
+* [PHP-версия](https://github.com/idec-net/ii-php) (работает, но уже малоактуальна)
 * [iicl, Common Lisp](https://github.com/spline1986/iicl) (минимально рабочая версия, умеет мало)
 
 ### Частые вопросы (FAQ):
